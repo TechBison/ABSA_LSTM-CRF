@@ -1,0 +1,2 @@
+# ABSA_LSTM-CRF
+This model deals with the fine grained sentiment analysis, more precisely, Aspect Based Sentiment Analysis, with the applications of Neural Networks. Recurrent Neural networks of the type Bi Directional Long Short Term Memory are used with the blend of Conditional Random Fields. This model is on the par with all the state of art techniques which are recently devised or invented in the field of Sentiment Analysis.
